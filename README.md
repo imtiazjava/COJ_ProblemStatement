@@ -49,5 +49,31 @@ Return type: int
 TO DO: Calculate the runs scored in boundaries ( 4 * fours + 6 * sixes ) and return it.
 </p>
 
-<a href="#">Click Here to download Templet</a>
+<hr/>
+<b>Batsman_02.java</b>
+<p>
+   
+ <h3>SPECIFICATIONS</h3>
 
+1) Declare the data members as private in class Batsman. 
+
+2) Add default Constructor to class Batsman. 
+
+TO DO: NA
+
+Access modifier: public
+
+3) Add parameterized Constructor to class "Batsman", with following arguments: 
+"name" of type String
+"runsScored" of type int
+"centuries" of type int
+"halfCenturies" of type int
+"ballsFaced" of type int
+"fours" of type int
+"sixes" of type int
+TO DO: Initialize the instance members of a class with given arguments
+
+Access modifier: public
+
+4) Add getter and setter methods with public access modifier for every attribute in class Batsman 
+</p>
